@@ -9,14 +9,12 @@
 # como entrada e retorna um dicionário onde as chaves são as palavras únicas na lista e 
 # os valores são as contagens de quantas vezes cada palavra aparece na lista. Por exemplo:
 # def contagem_palavras_unicas(lista_palavras):
-#     # Seu código aqui
-#     pass
 
 # # Exemplo de uso
 # palavras = ["gato", "cachorro", "gato", "cavalo", "cachorro", "gato"]
 # print(contagem_palavras_unicas(palavras))
 
-# A saída esperada seria:
+# Saída esperada:
 
 # {'gato': 3, 'cachorro': 2, 'cavalo': 1}
 
