@@ -2,7 +2,6 @@
 # Data: 03/19/2024
 # este projeto foi proposto pelo chatGPT para se resolver um problema envolvendo dicionarios,
 # segue abaixo o enunciado:
-# Claro! Aqui está um desafio envolvendo dicionários em Python:
 
 # Desafio: Contagem de Palavras Únicas
 
